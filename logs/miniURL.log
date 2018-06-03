@@ -1,0 +1,21 @@
+2018-06-04 00:41:59 DEBUG: models.db_redisredis_class
+2018-06-04 00:41:59 DEBUG: /Users/user/Downloads/miniURL
+2018-06-04 00:41:59 DEBUG: redis init OK
+2018-06-04 00:41:59 DEBUG: cache init OK
+2018-06-04 00:42:04 INFO:  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2018-06-04 00:55:53 DEBUG: models.db_redisredis_class
+2018-06-04 00:55:53 DEBUG: /Users/user/Downloads/miniURL
+2018-06-04 00:55:53 DEBUG: redis init OK
+2018-06-04 00:55:53 DEBUG: cache init OK
+2018-06-04 01:03:04 DEBUG: models.db_redisredis_class
+2018-06-04 01:03:04 DEBUG: /Users/user/Downloads/miniURL
+2018-06-04 01:03:04 DEBUG: redis init OK
+2018-06-04 01:03:04 DEBUG: cache init OK
+2018-06-04 01:03:09 INFO:  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2018-06-04 01:03:33 INFO: 127.0.0.1 - - [04/Jun/2018 01:03:33] "GET / HTTP/1.1" 200 -
+2018-06-04 01:03:34 INFO: 127.0.0.1 - - [04/Jun/2018 01:03:34] "GET /favicon.ico HTTP/1.1" 0 -
+2018-06-04 01:03:37 DEBUG: get_org_url=>http://blog.bagesoft.com/858
+2018-06-04 01:03:37 INFO: 127.0.0.1 - - [04/Jun/2018 01:03:37] "POST /short HTTP/1.1" 200 -
+2018-06-04 01:03:37 INFO: 127.0.0.1 - - [04/Jun/2018 01:03:37] "GET /favicon.ico HTTP/1.1" 0 -
+2018-06-04 01:03:45 DEBUG: get_org_url=>bQiGMqqy
+2018-06-04 01:03:45 INFO: 127.0.0.1 - - [04/Jun/2018 01:03:45] "GET /bQiGMqqy HTTP/1.1" 301 -
