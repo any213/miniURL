@@ -19,3 +19,33 @@
 2018-06-04 01:03:37 INFO: 127.0.0.1 - - [04/Jun/2018 01:03:37] "GET /favicon.ico HTTP/1.1" 0 -
 2018-06-04 01:03:45 DEBUG: get_org_url=>bQiGMqqy
 2018-06-04 01:03:45 INFO: 127.0.0.1 - - [04/Jun/2018 01:03:45] "GET /bQiGMqqy HTTP/1.1" 301 -
+2018-06-04 02:18:39 DEBUG: models.db_redisredis_class
+2018-06-04 02:18:39 DEBUG: /Users/user/Downloads/miniURL
+2018-06-04 02:18:39 DEBUG: redis init OK
+2018-06-04 02:18:39 DEBUG: cache init OK
+2018-06-04 02:18:44 INFO:  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2018-06-04 02:24:27 DEBUG: models.db_redisredis_class
+2018-06-04 02:24:27 DEBUG: /Users/user/Downloads/miniURL
+2018-06-04 02:24:27 DEBUG: redis init OK
+2018-06-04 02:24:27 DEBUG: cache init OK
+2018-06-04 02:24:32 INFO:  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2018-06-04 02:24:50 INFO: 127.0.0.1 - - [04/Jun/2018 02:24:50] "GET / HTTP/1.1" 200 -
+2018-06-04 02:24:50 INFO: 127.0.0.1 - - [04/Jun/2018 02:24:50] "GET /favicon.ico HTTP/1.1" 0 -
+2018-06-04 02:24:54 DEBUG: get_org_url=>www.naver.com
+2018-06-04 02:24:54 INFO: 127.0.0.1 - - [04/Jun/2018 02:24:54] "POST /short HTTP/1.1" 200 -
+2018-06-04 02:24:54 INFO: 127.0.0.1 - - [04/Jun/2018 02:24:54] "GET /favicon.ico HTTP/1.1" 0 -
+2018-06-04 02:25:58 DEBUG: models.db_redisredis_class
+2018-06-04 02:25:58 DEBUG: /Users/user/Downloads/miniURL
+2018-06-04 02:25:58 DEBUG: redis init OK
+2018-06-04 02:25:58 DEBUG: cache init OK
+2018-06-04 02:26:03 INFO:  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2018-06-04 07:48:38 DEBUG: models.db_redisredis_class
+2018-06-04 07:48:38 DEBUG: /Users/user/Downloads/miniURL
+2018-06-04 07:48:38 DEBUG: redis init OK
+2018-06-04 07:48:38 DEBUG: cache init OK
+2018-06-04 07:48:41 INFO:  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2018-06-04 07:52:32 DEBUG: models.db_redisredis_class
+2018-06-04 07:52:32 DEBUG: /Users/user/Downloads/miniURL
+2018-06-04 07:52:32 DEBUG: redis init OK
+2018-06-04 07:52:32 DEBUG: cache init OK
+2018-06-04 07:52:33 INFO:  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
