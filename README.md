@@ -8,13 +8,15 @@
 > OSX,Linux
 
 ### 2. Python 설치
-Python3 및 실행에 필요한 패키지 설치가 필요합니다.
->Python3\
-https://www.python.org/downloads/release/python-365/\
->flask\
-https://pypi.org/project/Flask/1.0.2/\
->redis (python redis client)\
-https://pypi.org/project/redis/
+Python3 및 실행에 필요한 패키지 설치가 필요합니다.\
+*python3
+>https://www.python.org/downloads/release/python-365/
+>
+*flask
+>https://pypi.org/project/Flask/1.0.2/
+>
+*redis (python redis client)
+>https://pypi.org/project/redis/
 
 ### 3. config 설정
 miniURL/setup/config.json 파일을 통하여 어플리케이션 설정값을 셋팅합니다.
